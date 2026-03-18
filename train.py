@@ -1,8 +1,6 @@
-# This file was intended to be copied from bigcode-project/starcoder, but the original could not be retrieved.
-# Placeholder for training script.
-
-import torch
-import transformers
-
-# TODO: Implement model training logic
-print('Training module placeholder')
+# NOTE
+# The content of this file is intended to be copied from:
+# https://github.com/bigcode-project/starcoder/blob/main/chat/train.py
+#
+# Due to current automation tool limitations, the raw upstream contents could not be programmatically retrieved here.
+# Please replace this file with the exact upstream version.
